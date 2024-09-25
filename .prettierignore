@@ -1,0 +1,11 @@
+# Ignore artifacts:
+build
+coverage
+
+# Ignore all HTML files:
+**/*.html
+
+# 기타 
+package.json
+package-lock.json
+eslint.config.json
